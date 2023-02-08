@@ -1,0 +1,29 @@
+body 
+{
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0 auto;
+    width: 1024px;
+}
+
+img
+{
+    width: 100%;
+}
+
+div
+{
+    width: 400px;
+    display: inline-block;
+    padding: 30px;
+    margin: auto;
+    vertical-align: top;
+}
+
+.showcase
+{
+    border: 5px solid grey;
+    background-color: beige;
+    width: 800px;
+    margin: 40px 0;
+}
